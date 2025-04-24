@@ -9,7 +9,7 @@
 <body>
 
 <%-- メッセージの出力--%>
-<!--HTML形式のコメントこーーんにーーーーちはーーーーーーー！-->
+<!--HTML形式のコメントこーーんにーーーーちは！-->
 
 <p>Hello!</p>
 <p>こんにちは！ https://github.com/ruihachimura0208/test.git</p>
